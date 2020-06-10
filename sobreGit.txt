@@ -1,0 +1,12 @@
+git init 
+
+  - inicia um repositorio do Git e todas as alterações que for feitas nos arquivos o git vai ter acesso.
+
+git status
+
+  - nos mostra o estado do repositorio e quais arquivos são monitorados ou não.
+
+git add <nome do arquivo>
+  - git add index.html
+
+  git add . para fazer todos da pasta atual
